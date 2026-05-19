@@ -1,0 +1,9 @@
+{
+  "owner": "0x3349c052682b4ad6cb013ede5009897f5e14be83",
+  "did": "did:idchain:0x3349c052682b4ad6cb013ede5009897f5e14be83",
+  "firstName": "Test",
+  "lastName": "User",
+  "dateOfBirth": "2000-01-01",
+  "nationality": "USA",
+  "createdAt": "2026-05-19T11:43:44.778Z"
+}

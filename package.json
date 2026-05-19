@@ -1,0 +1,15 @@
+{
+  "name": "idchain-workspace",
+  "version": "1.0.0",
+  "description": "IDChain Decentralized Digital Identity Platform Workspace",
+  "scripts": {
+    "dev": "concurrently \"npm:dev:backend\" \"npm:dev:frontend\"",
+    "dev:frontend": "npm run dev --prefix frontend",
+    "dev:backend": "npm run dev --prefix backend",
+    "compile:contracts": "npx hardhat compile --prefix contracts",
+    "deploy:contracts": "npx hardhat run scripts/deploy.js --network sepolia --prefix contracts"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

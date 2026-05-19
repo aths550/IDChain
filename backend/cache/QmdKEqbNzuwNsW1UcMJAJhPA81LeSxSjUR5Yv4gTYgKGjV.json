@@ -1,0 +1,7 @@
+{
+  "verifier": "0x00ed60c1b681171cc7aa4afccb52cfbca01790dc",
+  "subject": "0x00ed60c1b681171cc7aa4afccb52cfbca01790dc",
+  "action": "did_creation",
+  "details": "DID generated: did:idchain:0x00ed60c1b681171cc7aa4afccb52cfbca01790dc",
+  "createdAt": "2026-05-19T11:41:03.248Z"
+}

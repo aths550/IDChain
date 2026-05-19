@@ -1,0 +1,7 @@
+{
+  "verifier": "public_scan",
+  "subject": "0x4e53c03d73c16edb78c1907159704f15e4eaebd9",
+  "action": "qr_verification",
+  "details": "Scanned and verified DID: did:idchain:0x4e53c03d73c16edb78c1907159704f15e4eaebd9",
+  "createdAt": "2026-05-19T10:57:16.941Z"
+}
